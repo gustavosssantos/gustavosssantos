@@ -60,7 +60,8 @@
       <!--<img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">-->          
 </div>
 <br><br>
-#### 📉 Certifications
+
+### 📉 Certifications
 <div style="display: inline_block">     
      <a href="#"> <img align="center"  src="https://i.imgur.com/NKhOJK9.png">
      <a href="#"> <img align="center"  src="https://i.imgur.com/rmqRLT1.png">
