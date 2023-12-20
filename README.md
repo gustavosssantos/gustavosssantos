@@ -1,6 +1,6 @@
 #### Oi, eu sou o Gustavo! 👋
-- Data Engineer;
-- GitHub Developers member;
+- Data Engineer @ Cognizant
+- GitHub Developers member
 - Google Developer Groups - GDG Organizer
 
 #### 🚀 Skills  
